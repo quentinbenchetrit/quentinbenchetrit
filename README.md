@@ -8,10 +8,6 @@
 
 Options and derivatives pricing, market making, statistical arbitrage, volatility modeling, and time-series forecasting. I like turning stochastic-calculus ideas into code that actually runs.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentinbenchetrit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quentinbenchetrit@berkeley.edu)
-![Location](https://img.shields.io/badge/Berkeley-CA-333333?style=flat)
-
 </div>
 
 ---
