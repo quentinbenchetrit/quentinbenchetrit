@@ -49,7 +49,7 @@ I built a small browser game about reading volatility off a random price path. N
 **[patent-convergence-detection](https://github.com/quentinbenchetrit/patent-convergence-detection)**: detecting emerging technology convergence across 2.4M EPO patents. Fourteen centrality, clustering, and time-series signals over roughly 180k CPC code pairs, fed to a gradient-boosting classifier backtested on the electric-vehicle, smartphone, and biotech cases.
 `Python` `DuckDB` `NetworkX` `graph analysis`
 
-Other work not on GitHub: a global quant trading challenge (IMC Prosperity 4, ranked top 2% of 18,803 teams, market-making and stat-arb strategies) and a Box-Jenkins study of French industrial production.
+Other work not on GitHub: a global quant trading challenge (IMC Prosperity 4, market-making and stat-arb strategies) and a Box-Jenkins study of French industrial production.
 
 ---
 
