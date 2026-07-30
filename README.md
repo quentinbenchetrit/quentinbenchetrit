@@ -39,7 +39,7 @@ I built a small browser game about reading volatility off a random price path. N
 
 <div align="center">
 
-**[ Play Vol Trader ](https://quentinbenchetrit.github.io/)**
+**[ Play Vol Trader ](https://quentinbenchetrit.github.io/vol-trader/)**
 
 </div>
 
