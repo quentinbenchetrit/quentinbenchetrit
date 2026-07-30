@@ -47,22 +47,15 @@ I built a small browser game about reading volatility off a random price path. N
 
 ### Featured projects
 
-**[france-grid-stress-prediction](https://github.com/quentinbenchetrit/france-grid-stress-prediction)** — Day-ahead (J+1) forecasting of French electricity demand. Reproducible pipeline pulling RTE load and Open-Meteo weather, population-weighted to a national signal, with XGBoost models served through a FastAPI and Docker setup. Cut MAE by 60% versus a 24-hour persistence baseline under walk-forward validation on 28 years of grid data.
+**[france-grid-stress-prediction](https://github.com/quentinbenchetrit/france-grid-stress-prediction)**: day-ahead (J+1) forecasting of French electricity demand. Reproducible pipeline pulling RTE load and Open-Meteo weather, population-weighted to a national signal, with XGBoost models served through a FastAPI and Docker setup. Cut MAE by 60% versus a 24-hour persistence baseline under walk-forward validation on 28 years of grid data.
 `Python` `XGBoost` `FastAPI` `Docker` `time-series`
 
-**[patent-convergence-detection](https://github.com/quentinbenchetrit/patent-convergence-detection)** — Detecting emerging technology convergence across 2.4M EPO patents. Fourteen centrality, clustering, and time-series signals over roughly 180k CPC code pairs, fed to a gradient-boosting classifier backtested on the electric-vehicle, smartphone, and biotech cases.
+**[patent-convergence-detection](https://github.com/quentinbenchetrit/patent-convergence-detection)**: detecting emerging technology convergence across 2.4M EPO patents. Fourteen centrality, clustering, and time-series signals over roughly 180k CPC code pairs, fed to a gradient-boosting classifier backtested on the electric-vehicle, smartphone, and biotech cases.
 `Python` `DuckDB` `NetworkX` `graph analysis`
 
 Other work not on GitHub: a global quant trading challenge (IMC Prosperity 4, ranked top 2% of 18,803 teams, market-making and stat-arb strategies) and a Box-Jenkins study of French industrial production.
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quentinbenchetrit&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinbenchetrit&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages">
-
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quentinbenchetrit/quentinbenchetrit/output/snake-dark.svg">
