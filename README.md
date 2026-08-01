@@ -43,6 +43,9 @@ I built a small browser game about reading volatility off a random price path. N
 
 ### Featured projects
 
+**[vol-surface-engine](https://github.com/quentinbenchetrit/vol-surface-engine)** (work in progress): an arbitrage-free implied volatility surface and stochastic-volatility pricing engine on live Deribit option data. The market-data layer, put-call parity forwards and a robust implied vol solver are in; I am now building the SVI and SSVI arbitrage-free surface, then Heston calibration and Monte Carlo pricing of exotics.
+`Python` `Deribit API` `implied vol` `SVI` `Heston` `Monte Carlo`
+
 **[france-grid-stress-prediction](https://github.com/quentinbenchetrit/france-grid-stress-prediction)**: day-ahead (J+1) forecasting of French electricity demand. Reproducible pipeline pulling RTE load and Open-Meteo weather, population-weighted to a national signal, with XGBoost models served through a FastAPI and Docker setup. Cut MAE by 60% versus a 24-hour persistence baseline under walk-forward validation on 28 years of grid data.
 `Python` `XGBoost` `FastAPI` `Docker` `time-series`
 
